@@ -1,0 +1,78 @@
+[3] 12:07:21 PM: Log started for 'C:\Tosca_Projects\TOSCA_Workspaces\Small Project\Small Project.tws'
+[3] 12:07:21 PM: Log level: 4
+[3] 12:07:21 PM: Release: 12.0.0.19268
+[3] 12:07:22 PM:  + DistributedExecutionAddIn: DistributedExecutionAddIn 12.0.0.1191 (19268)
+[3] 12:07:22 PM:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 12.0.0.1191 (19268)
+[3] 12:07:22 PM:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 12.0.0.1191 (19268)
+[3] 12:07:22 PM:  + IntegrationManagementAddIn: IntegrationManagementAddIn 12.0.0.1191 (19268)
+    + : SAPSolutionManagerIntegration 12.0.0.1191 (19268)
+[3] 12:07:22 PM:  + OptIntAddIn: OptIntAddIn 12.0.0.1191 (19268)
+[3] 12:07:22 PM:  + RemoteControl: RemoteControlAddIn 12.0.0.1191 (19268)
+[3] 12:07:22 PM:  + Reporting: ReportingAddIn 12.0.0.1191 (19268)
+[3] 12:07:22 PM:  + ReportingUI: ReportingUIAddIn 12.0.0.1191 (19268)
+[3] 12:07:22 PM:  + RequirementsManagementAddIn: RequirementsManagement 12.0.0.1191 (19268)
+[3] 12:07:22 PM:  + RequirementsManagementUIAddIn: RequirementsManagementUI 12.0.0.1191 (19268)
+[3] 12:07:22 PM:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 12.0.0.1191 (19268)
+[3] 12:07:22 PM:  + SoapUiImporterAddIn: SoapUiImporterAddIn 12.0.0.1191 (19268)
+[3] 12:07:22 PM:  + TestCaseDesign: TestCaseDesign 12.0.0.1191 (19268)
+[3] 12:07:22 PM:  + ControlFlowDiagram: TestCaseVisualizationAddIn 12.0.0.1191 (19268)
+[3] 12:07:22 PM:  + XDefinitions: XDefinitions 12.0.0.1191 (19268)
+[3] 12:07:22 PM:  + XDefinitionsUI: XDefinitionsUI 12.0.0.1191 (19268)
+[3] 12:07:22 PM: Opened from Workspace File 'C:\Tosca_Projects\TOSCA_Workspaces\Small Project\Small Project.tws'
+[4] 12:07:27 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 12:07:27 PM:  ShowStatusInfo: 'Ready'
+[4] 12:07:27 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 12:07:27 PM:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 12:07:27 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 12:07:27 PM:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 12:07:27 PM:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 12:07:27 PM:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 12:07:27 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 12:07:27 PM:  ShowStatusInfo: 'Ready'
+[4] 12:07:27 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 12:07:27 PM:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 12:07:27 PM:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 12:07:27 PM:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 12:07:27 PM:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 12:07:27 PM:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 12:07:27 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:07:27 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 12:07:27 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:07:27 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 12:07:27 PM:  ShowStatusInfo: 'Ready'
+[4] 12:07:27 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 12:07:27 PM:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 12:07:27 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 12:07:27 PM:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 12:07:27 PM:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 12:07:27 PM:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 12:07:27 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 12:07:27 PM:  ShowStatusInfo: 'Ready'
+[4] 12:07:27 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 12:07:27 PM:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 12:07:27 PM:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 12:07:27 PM:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 12:07:27 PM:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 12:07:27 PM:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 12:07:27 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:07:27 PM:  ShowStatusInfo: 'Refresh all finished'
+[4] 12:07:27 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 12:07:27 PM:  ShowStatusInfo: 'Ready'
+[4] 12:07:27 PM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 12:07:27 PM:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 12:07:27 PM:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+[4] 12:07:27 PM:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+[4] 12:07:27 PM:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+[4] 12:07:27 PM:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+[4] 12:07:27 PM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 12:07:27 PM:  ShowStatusInfo: 'Ready'
+[4] 12:07:27 PM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 12:07:27 PM:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 12:07:27 PM:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+[4] 12:07:27 PM:  ShowStatusInfo: 'Refresh detail view 'Issues''
+[4] 12:07:27 PM:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+[4] 12:07:27 PM:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+[4] 12:07:27 PM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:07:28 PM:  ShowStatusInfo: 'Refresh all finished'
+[3] 12:07:28 PM: OpenWorkspace took 00:00:06.5862245 to finish
+[4] 12:07:33 PM:  ShowStatusInfo: 'Ready'
